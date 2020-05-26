@@ -2,7 +2,7 @@ package fileutil
 
 // GetMessage returns a message
 func GetMessage() string {
-	message := "Message1"
+	message := "Message2"
 	return message
 }
 
